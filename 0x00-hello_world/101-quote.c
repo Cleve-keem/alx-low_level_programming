@@ -4,7 +4,7 @@
 /**
  *   main - Entry point
  *   Return: print string to standard error and return 1
- *    
+ * 
  */
 int main(void)
 {
