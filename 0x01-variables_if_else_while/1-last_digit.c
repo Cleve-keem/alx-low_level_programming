@@ -4,7 +4,7 @@
 
 /**
  * main - affects random number to variable n
- * Return: prints the last digit of number stored in variable n   
+ * Return: prints the last digit of number stored in variable n
  */
 int main(void)
 {
