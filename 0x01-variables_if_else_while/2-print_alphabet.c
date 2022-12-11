@@ -3,13 +3,13 @@
 /**
  *  * main - prints c as letter starting with a, incrementing until c = z
  *   * Return: returns alphabet in lowercase
- *    */
+ */
 int main(void)
 {
 	char c = 'a';
-	while (c <= 'z')
+	while ( c <= 'z')
 	{
-		putchar (c);
+		putchar(c);
 		c++;
 	}
 	putchar ('\n');
