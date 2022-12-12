@@ -29,4 +29,13 @@ int main(void)
 				{
 					putchar(',');
 					putchar(',');
+				}
+				o++;
+			}
+			m++;
+		}
+		n++;
+	}
+	return (0);
+}
 
