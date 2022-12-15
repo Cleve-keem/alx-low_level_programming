@@ -22,6 +22,6 @@ int main(void)
 				prime /= div;
 		}
 	}
-	printf("%ld\n", a);
+	printf("%ld\n", prime);
 	return (0);
 }
